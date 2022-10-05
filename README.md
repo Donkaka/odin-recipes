@@ -1,1 +1,2 @@
 # odin-recipes
+this is a web development lesson project, where i want to learn the practical part of the lessons i have been learning. i intead to learn about git and gitHub, that is how to go about them and also learn the initial steps of creating a website. Thank you.
